@@ -7,3 +7,7 @@ Download release APK for your device's system architecture, if you don't know th
 * Open CPU-Z and head over to SOC Tab.
 * Find Architecture Label and get your device's architecture.
 * Download GV Player APK as per your architecture.
+
+## [Download APK][]
+
+[Download APK]: https://github.com/Gaurav-V7/gvplayerreleases/releases
